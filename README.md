@@ -16,7 +16,7 @@ In this project, I designed a **Login page UI** in **Figma** using text elements
 
 ## How to Run the Project
 
-Open your emulator and Navigate to the file that name MainActivity.kt app/src/main/java/com/example/uitestfigma/MainActivity.kt and ru
+Open your emulator and Navigate to the file that name MainActivity.kt using this path app/src/main/java/com/example/uitestfigma/MainActivity.kt and run it
 
 
 
