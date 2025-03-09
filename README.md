@@ -15,9 +15,8 @@ In this project, I designed a **Login page UI** in **Figma** using text elements
 - **Jetpack Compose**: For implementing the UI in Android Studio.
 
 ## How to Run the Project
-1. Clone the repository to your local machine:
-   ```bash
-   git clone https://github.com/shouqalbdrani/Task-Build-an-Interactive-Login-page-UI-in-Figma-and-Jetpack-Compose.git
+
+Open your emulator and Navigate to the file that name MainActivity.kt app/src/main/java/com/example/uitestfigma/MainActivity.kt and ru
 
 
 
