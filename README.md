@@ -9,6 +9,8 @@ In this project, I designed a **Login page UI** in **Figma** using text elements
 - **Image**: For displaying the Elm logo.
 - **Password Recovery**: Added a "Forgot Password?"
 - **Buttons**: A "Sign In" button for submitting login details.
+- Repoduced the provided design using Jetpacj Compose
+- **Layout**: Apply the layout hiereachy using Column and Box 
 
 ## Tools Used
 - **Figma**: For designing the UI elements and layout.
